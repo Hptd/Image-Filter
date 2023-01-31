@@ -3,3 +3,7 @@
 
 
 A program developed in python that can browse jpg and png formats, and at the same time can rename images to achieve the purpose of filtering.
+
+# Image Filter.exe
+
+![Running Image](https://user-images.githubusercontent.com/82070210/215696788-2deca3ec-66a0-4b05-85d2-b35619099e36.png)
